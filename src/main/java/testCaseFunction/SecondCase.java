@@ -3,7 +3,6 @@ package testCaseFunction;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import utils.BasePage;
-
 public class SecondCase extends BasePage {
     public SecondCase(WebDriver driver) {
         super(driver);
